@@ -33,3 +33,5 @@ El contenido de la rama de liberacion se incorporara a la rama master, lanzando 
 Se crean a partir de la rama master y surgen de la necesidad de actuar inmediatamente ante el estado actual de la version ya lanza de la aplicacion.
 
 La rama debe corregir errores que se encuentre en las version disponible al usuario, una vez solucionado el problema en la rama de revision se reincorporara a la rama master lanzando asi una version mejorada, tambien debera modificarse la etiqueta de version pero debe ser a baja escala, por ejemplo de la version 1 a la version 1.1
+
+####cambio1
